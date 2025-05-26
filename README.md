@@ -12,6 +12,8 @@ I printed the sum of null values per column, data types and general information 
 We can then normalize Age, SibSp, Parch, Fare. Other Columns have very less variance, or are categorical variables and therefore, we may not normalize them.
 
 References Used - 
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
 https://www.geeksforgeeks.org/selecting-rows-in-pandas-dataframe-based-on-conditions/
 
 https://stackoverflow.com/questions/60115806/pd-na-vs-np-nan-for-pandas
